@@ -1,7 +1,7 @@
 # Ranking
 This repository has the code to perform the operations for the Watershed Ranking Exercise for the Nicola Watershed. 
 
-Files include:
+<ins>**Files include:<ins>**
 1) **DRAFT_Nicola Watershed Ranking Framework Memo_03262026_TOBEREPLACED.pdf:** Draft Report
 2) **Draft_Ranking_Metadata.xlsx:** Associated metadata file linked to data layers. Specifies columns used to analysis and mapping.
 3) **NWRanking.zip:** Zip folder with data package including base layers, inputs, outputs
