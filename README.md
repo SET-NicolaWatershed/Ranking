@@ -15,3 +15,4 @@ This repository contains all files *(code, data, metadata, report, QGIS project)
 4) **Script_Geospatial operations_Nicola_Watershed_Prioritization.ipynb:** Python code developed by Jessica Castellanos-Labarcena (ESSA Technologies Ltd.) *Note - DFO-IPSE exploring updating this to R script and markdown file*
 5) **ranking.qgz:** QGIS project used to map data including layer styles and layouts
 6) **ranking_layout.qpt:** QGIS Layout template which can be imported for mapping layers
+7) **README.md:** Contents of this README file
