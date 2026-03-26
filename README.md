@@ -1,5 +1,5 @@
 # Nicola Watershed Ranking Framework
-This repository contains all files (code, data, metadata, report, GIS project) to perform the operations for the Nicola Watershed Ranking Framework. See general overview of files below.
+This repository contains all files *(code, data, metadata, report, GIS project)* to perform the operations for the Nicola Watershed Ranking Framework. See general overview of files below.
 
 Users can download all files in this repository or clone this in Github. 
 ***To download all files as a zip file:*** 
