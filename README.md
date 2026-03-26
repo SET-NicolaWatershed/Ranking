@@ -7,7 +7,7 @@ To download all files as a zip file:
 - From the dropdown list - click "Download Zip"
 - Right-click zip file and 'Extract All'
 
-<ins>**Files include:<ins>**
+**Files include:**
 1) **DRAFT_Nicola Watershed Ranking Framework Memo_03262026_TOBEREPLACED.pdf:** Draft Report
 2) **Draft_Ranking_Metadata.xlsx:** Associated metadata file linked to data layers. Specifies columns used to analysis and mapping.
 3) **NWRanking.zip:** Zip folder with data package including base layers, inputs, outputs
