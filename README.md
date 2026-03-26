@@ -2,6 +2,7 @@
 This repository contains all files *(code, data, metadata, report, QGIS project)* to perform the operations for the Nicola Watershed Ranking Framework. See general overview of files below.
 
 *Users can download all files in this repository or clone this repository directly in Github.*
+
 ***To download all files as a zip file:*** 
 - Click the green **`Code`** button (top right of the file list)
 - From the dropdown list - click "Download Zip"
