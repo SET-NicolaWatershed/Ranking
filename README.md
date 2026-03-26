@@ -1,4 +1,4 @@
-# Ranking
+# Nicola Watershed Ranking Framework
 This repository has the code to perform the operations for the Watershed Ranking Exercise for the Nicola Watershed. 
 
 Users can download all files in this repository or clone this in Github. 
